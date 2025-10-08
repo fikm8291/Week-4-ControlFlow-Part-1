@@ -13,7 +13,7 @@
 # You’ll practice creating Booleans and printing them to see the results.
 # -------------------------------------------
 
-# Step 1: Boolean Basics
+# Task 1: Boolean Basics
 # ----------------------
 # Booleans can be created by comparing numbers.
 # Example: 5 > 3 gives True because 5 is bigger than 3.
@@ -29,7 +29,7 @@
 # Write your code below:
 
 
-# Step 2: String Comparisons
+# Task 2: String Comparisons
 # --------------------------
 # You can compare text (strings) using == or !=.
 # Example: "apple" == "apple" gives True.
@@ -46,7 +46,7 @@
 # Write your code below:
 
 
-# Step 3: Input and Boolean Results
+# Task 3: Input and Boolean Results
 # ---------------------------------
 # You can get input from the user and immediately check something about it.
 
