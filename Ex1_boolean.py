@@ -23,7 +23,7 @@
 # print(num1 > num2)  # Prints True or False depending on your numbers
 
 # TODO:
-# 1. Create your own two number variables.
+# 1. Create two variables and assign each of them to two different integers.
 # 2. Compare them using >, <, ==, != and print the results.
 
 # Write your code below:
@@ -39,7 +39,7 @@
 # print(word1 == word2)  # Prints True or False depending on your strings
 
 # TODO:
-# 1. Create your own two string variables.
+# 1. Create two variables and assign each of them to two strings (they can be the same or different).
 # 2. Compare them using == and print the result.
 # 3. Compare them using != and print the result.
 
@@ -55,12 +55,14 @@
 
 # TODO:
 # 1. Ask the user to enter a number and store it in a variable.
-# 2. Compare it to another number and print the Boolean result.
+# Note: When you use input() to receive input from a user, it is saved as a string by default!!
+# 2. Compare it to another number and print the (Boolean) result.
 
 # Optional:
 # Ask the user to type a word and compare it to a stored string, then print True/False.
 
 # Write your code below:
+
 
 # -------------------------------------------
 # Submitting Your Work
